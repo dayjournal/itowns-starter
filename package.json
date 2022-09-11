@@ -1,0 +1,21 @@
+{
+    "name": "itowns-starter",
+    "version": "2.38.2",
+    "description": "",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [],
+    "author": "Yasunori Kirimoto",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.8.2",
+        "vite": "^3.1.0"
+    },
+    "dependencies": {
+        "buffer": "^6.0.3",
+        "itowns": "^2.38.2"
+    }
+}
