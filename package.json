@@ -1,6 +1,6 @@
 {
     "name": "itowns-starter",
-    "version": "2.39.0",
+    "version": "2.42.0",
     "description": "",
     "scripts": {
         "dev": "vite",
@@ -11,11 +11,12 @@
     "author": "Yasunori Kirimoto",
     "license": "ISC",
     "devDependencies": {
-        "typescript": "^5.0.4",
-        "vite": "^4.3.5"
+        "typescript": "^5.3.3",
+        "vite": "^5.1.1"
     },
     "dependencies": {
+        "@babel/runtime": "^7.23.9",
         "buffer": "^6.0.3",
-        "itowns": "^2.39.0"
+        "itowns": "^2.42.0"
     }
 }

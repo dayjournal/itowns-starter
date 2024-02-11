@@ -3,11 +3,11 @@
 ![README02](img/README02.png)
 
 Start iTowns easily.  
-- [iTowns v2.39.0](https://github.com/iTowns/itowns)  
-- [TypeScript v5.0.4](https://www.typescriptlang.org)  
-- [Vite v4.3.5](https://vitejs.dev)  
-- node v18.1.0
-- npm v8.8.0
+- [iTowns v2.42.0](https://github.com/iTowns/itowns)  
+- [TypeScript v5.3.3](https://www.typescriptlang.org)  
+- [Vite v5.1.1](https://vitejs.dev)  
+- node v21.6.0
+- npm v10.2.4
 
 <br>
 
@@ -48,7 +48,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2022-2023 Yasunori Kirimoto
+Copyright (c) 2022-2024 Yasunori Kirimoto
 
 <br>
 
@@ -65,11 +65,11 @@ Copyright (c) 2022-2023 Yasunori Kirimoto
 ![README02](img/README02.png)
 
 iTownsを手軽に始める
-- [iTowns v2.39.0](https://github.com/iTowns/itowns)  
-- [TypeScript v5.0.4](https://www.typescriptlang.org)  
-- [Vite v4.3.5](https://vitejs.dev)  
-- node v18.1.0
-- npm v8.8.0
+- [iTowns v2.42.0](https://github.com/iTowns/itowns)  
+- [TypeScript v5.3.3](https://www.typescriptlang.org)  
+- [Vite v5.1.1](https://vitejs.dev)  
+- node v21.6.0
+- npm v10.2.4
 
 <br>
 
@@ -111,6 +111,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2022-2023 Yasunori Kirimoto
+Copyright (c) 2022-2024 Yasunori Kirimoto
 
 <br>
