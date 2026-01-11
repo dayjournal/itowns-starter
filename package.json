@@ -1,23 +1,24 @@
 {
     "name": "itowns-starter",
-    "version": "2.42.0",
+    "version": "2.42.5",
     "description": "",
     "scripts": {
         "dev": "vite",
-        "build": "tsc && vite build",
+        "build": "vite build",
+        "typecheck": "tsc --noEmit",
         "preview": "vite preview"
     },
     "keywords": [],
     "author": "Yasunori Kirimoto",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
-        "typescript": "^5.3.3",
-        "vite": "^5.1.1",
-        "@types/itowns": "2.42.0"
+        "typescript": "^5.9.3",
+        "vite": "^7.3.1",
+        "@types/itowns": "2.42.5"
     },
     "dependencies": {
-        "@babel/runtime": "^7.23.9",
+        "@babel/runtime": "^7.28.4",
         "buffer": "^6.0.3",
-        "itowns": "^2.42.0"
+        "itowns": "^2.42.5"
     }
 }
